@@ -1,0 +1,18 @@
+﻿body {
+  font-family: 'Segoe UI', Calibri, Arial;
+   
+  margin:0;
+  background-image: url('/num-puzzle/img/bg.jpg'); /* Replace with the actual path to your image */
+  background-size: cover; /* This scales the image to cover the entire container */
+  background-position: center; /* This centers the image within the container */
+  background-repeat: no-repeat;
+}
+h1{
+  text-align: center;
+  margin: 15px auto;
+}
+h3{
+    font-weight:normal;
+    margin:3px 0px;
+    text-align:center;
+}
